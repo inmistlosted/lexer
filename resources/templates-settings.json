@@ -1,0 +1,99 @@
+{
+  "TabsAndIndents": {
+    "UseTabsCharacter": true,
+    "TabSize": 4,
+    "Indent": 4,
+    "ContinuationIndent": 4,
+    "KeepIndentsOnEmptyLines": false,
+    "IndentChainedMethod": false,
+    "IndentAllChainedCallsInAGroup": false
+  },
+
+  "Spaces": {
+    "BeforeParentheses": {
+      "FunctionDeclarationParentheses": false,
+      "FunctionCallParentheses": false,
+      "IfParentheses": true,
+      "ForParentheses": true,
+      "WhileParentheses": true,
+      "SwitchParentheses": true,
+      "CatchParentheses": true,
+      "InFunctionExpression": true,
+      "InAsyncArrowFunction": true
+    },
+    "AroundOperators": {
+      "AssignmentOperators": true,
+      "LogicalOperators": true,
+      "EqualityOperators": true,
+      "RelationOperators": true,
+      "BitwiseOperators": true,
+      "AdditiveOperators": false,
+      "MultiplicativeOperators": true,
+      "ShiftOperators": true,
+      "UnaryAdditiveOperators": false,
+      "ArrowFunction": true,
+      "BeforeUnaryNot": false,
+      "AfterUnaryNot": false
+    },
+    "BeforeLeftBrace": {
+      "FunctionLeftBrace": true,
+      "IfLeftBrace": true,
+      "ElseLeftBrace": true,
+      "ForLeftBrace": true,
+      "WhileLeftBrace": true,
+      "DoLeftBrace": true,
+      "SwitchLeftBrace": true,
+      "TryLeftBrace": true,
+      "CatchLeftBrace": true,
+      "FinallyLeftBrace": true,
+      "ClassLeftBrace": true
+    },
+    "BeforeKeywords": {
+      "ElseKeyword": true,
+      "WhileKeyword": true,
+      "CatchKeyword": true,
+      "FinallyKeyword": true
+    },
+    "Within": {
+      "IndexAccessBrackets": false,
+      "GroupingParentheses": false,
+      "FunctionDeclarationParentheses": false,
+      "FunctionCallParentheses": false,
+      "IfParentheses": true,
+      "ForParentheses": true,
+      "WhileParentheses": false,
+      "SwitchParentheses": false,
+      "CatchParentheses": false,
+      "ObjectLiteralBraces": false,
+      "ES6ImportExportBraces": true,
+      "ArrayBraces": false,
+      "InterpolationExpressions": true
+    },
+    "InTernaryOperator": {
+      "BeforeQuestionMark": true,
+      "AfterQuestionMark": true,
+      "BeforeDoublePoints": true,
+      "AfterDoublePoints": true
+    },
+    "Other": {
+      "BeforeComma": false,
+      "AfterComma": true,
+      "BeforeForSemicolon": true,
+      "BeforePropertyNameValueSeparator": false,
+      "AfterPropertyNameValueSeparator": true,
+      "AfterTriplePointsInRestSpread": false,
+      "BeforeMultiplicationInGenerator": false,
+      "AfterMultiplicationInGenerator": true
+    }
+  },
+
+  "Punctuation": {
+    "SemicolonToTerminateStatements": {
+      "Use": true
+    },
+    "Quotes": {
+      "Single": false
+    },
+    "TrailingComma": "Add when multiline"
+  }
+}
